@@ -1,4 +1,4 @@
-# Cantee_-Management_CPP
+# Canteen_-Management_CPP
 # Login:
 # Feature:
 # * Owner: 
