@@ -1,24 +1,31 @@
 # Cantee_-Management_CPP
 # Login:
-1) Owner
-2) Employee
+# Feature:
+# * Owner: 
 
-1) Owner Login:
- 1.DISPLAY ALL EMPLOYEE DETAILS
+
+   1.DISPLAY ALL EMPLOYEE DETAILS
+	
  2. ADD NEW EMPLOYEE DETAILS
+
+
  3. REMOVE OLD EMPLOYEE DETAILS
+
+
  4. VIEW SALES RECORD
+
+
  5. CLEAR SALES RECORD
+ 
  6. STOREPAGE
+ 
  7. EXIT
 
-
-2) Employee Login:
-
+# * Employee:
  1. MANAGE INVENTORY
  2. VIEW INVENTORY
  3. TAKE ORDER
  4. VIEW SALES RECORD
  5. EXIT
-
  
+	
