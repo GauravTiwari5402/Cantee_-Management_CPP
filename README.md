@@ -3,7 +3,7 @@
 1) Owner
 2) Employee
 
-#1) Owner Login:
+1) Owner Login:
  1.DISPLAY ALL EMPLOYEE DETAILS
  2. ADD NEW EMPLOYEE DETAILS
  3. REMOVE OLD EMPLOYEE DETAILS
@@ -11,7 +11,10 @@
  5. CLEAR SALES RECORD
  6. STOREPAGE
  7. EXIT
-#2) Employee Login:
+
+
+2) Employee Login:
+
  1. MANAGE INVENTORY
  2. VIEW INVENTORY
  3. TAKE ORDER
